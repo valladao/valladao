@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Manoel Valladão
 
-<!--
-**valladao/valladao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Shopify Developer | Web Performance & Accessibility Specialist
 
-Here are some ideas to get you started:
+🔹 Working with Shopify since 2009.  
+🔹 Specialized in Liquid, Online Store 2.0 (OS 2.0), Hydrogen v2 (Remix Framework), and custom app development.  
+🔹 Passionate about Web Performance Optimization (Core Web Vitals) and Accessibility (A11y).  
+🔹 Building fast, accessible, and scalable Shopify experiences for global brands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- [mvalladao-portfolio](https://github.com/valladao/mvalladao-portfolio): My custom Shopify theme created as a developer portfolio.
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/valladao/)
+
+---
+
+> Building better e-commerce experiences, one storefront at a time 🚀
